@@ -1,7 +1,7 @@
 <template>
   
   <div class="menu">
-   <a>오늘 뭐먹지?</a>
+   <a>오늘 뭐먹지? 헤헤 제발 연결되라</a>
     
   </div>
 
